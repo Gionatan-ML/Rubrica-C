@@ -1,0 +1,3 @@
+
+Nome: ester; Cognome: iodice; Numero: 392; Prefisso: 22 ;
+Nome:  io; Cognome:  sono; Numero:  pasquale; Prefisso:  32  ;
